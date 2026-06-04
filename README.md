@@ -16,7 +16,7 @@
 <h2>📖 About This Repository</h2>
 
 <p>
-THE_LAPLACE_TRANSFORM is a complete educational repository designed for students,
+THE LAPLACE TRANSFORM is a complete educational repository designed for students,
 engineering aspirants, mathematics enthusiasts, and competitive exam candidates.
 It provides a structured approach to understanding the <strong>Laplace Transform</strong>,
 covering fundamental concepts, formulas, properties, solved examples, inverse transforms,
