@@ -1,7 +1,7 @@
 <h1 align="center">📘 THE LAPLACE TRANSFORM</h1>
 
 <p align="center">
-  <strong>A Comprehensive Repository for Learning and Mastering Laplace Transform</strong>
+  <strong>A Comprehensive Repository for Learning and Mastering The Laplace Transform</strong>
 </p>
 
 <p align="center">
